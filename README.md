@@ -1,2 +1,5 @@
-# python-exercises
-Python öğrenme sürecimde yazdığım temel algoritmalar ve alıştırmalar.
+# Python Alıştırmaları
+Bu depoda Python öğrenirken geliştirdiğim küçük scriptler ve ödevler yer alıyor.
+- Hesap makinesi
+- Sayı tahmin oyunu
+- Veri yapıları çalışmaları
